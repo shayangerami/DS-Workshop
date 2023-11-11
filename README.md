@@ -1,2 +1,2 @@
 # DS-Workshop
-Intro to Data Scinece Workshop UIC Fall 2023
+Intro to Data Science Workshop UIC Fall 2023
